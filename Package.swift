@@ -4,7 +4,7 @@ import PackageDescription
 let package = Package(
     name: "OleusMobile",
     platforms: [
-        .iOS(.v18),
+        .iOS(.v17),
         .macOS(.v12),   // keeps `swift build` runnable for CI sanity checks
     ],
     products: [
