@@ -1,0 +1,4 @@
+framework module OleusMobile {
+  header "OleusCrashCore.h"
+  export *
+}

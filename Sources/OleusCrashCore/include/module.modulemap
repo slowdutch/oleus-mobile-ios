@@ -1,0 +1,4 @@
+module OleusCrashCore {
+  header "OleusCrashCore.h"
+  export *
+}
